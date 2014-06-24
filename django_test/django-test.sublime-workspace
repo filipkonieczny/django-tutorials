@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"regis",
+				"register_success"
+			],
+			[
+				"djan",
+				"django_test"
+			],
+			[
+				"dja",
+				"django_test"
+			],
+			[
+				"invalid",
+				"invalid_login"
+			],
+			[
+				"re",
+				"render_to_response"
+			],
+			[
 				"pos",
 				"posts"
 			],
@@ -26,10 +46,6 @@
 			[
 				"reu",
 				"return"
-			],
-			[
-				"re",
-				"request"
 			],
 			[
 				"ht",
@@ -59,70 +75,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "django_test/settings.py",
-			"settings":
-			{
-				"buffer_size": 2012,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "article/templates/article/articles.html",
-			"settings":
-			{
-				"buffer_size": 213,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/filipkonieczny/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 13677,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/filipkonieczny/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
-			"settings":
-			{
-				"buffer_size": 31027,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/filipkonieczny/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
-			"settings":
-			{
-				"buffer_size": 240,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/filipkonieczny/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 103,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "article/templates/article/hello.html",
-			"settings":
-			{
-				"buffer_size": 131,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "article/views.py",
-			"settings":
-			{
-				"buffer_size": 1352,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -148,25 +100,47 @@
 	},
 	"file_history":
 	[
+		"/home/filipkonieczny/dev/django-tutorials/django_irc/django_irc/settings.py",
+		"/home/filipkonieczny/dev/django-tutorials/django_irc/django_irc/urls.py",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/article/templates/article/articles.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/article/templates/article/article.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/urls.py",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/templates/register.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/templates/register_success.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/templates/logged_in.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/templates/login.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/views.py",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/settings.py",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/templates/login.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/article/views.py",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/templates/logout.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/templates/invalid.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/templates/loggedin.html",
+		"/home/filipkonieczny/.cache/.fr-pQ3GXE/django_test/views.py",
+		"/home/filipkonieczny/.cache/.fr-ZwGsjl/django_test/views.py",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/templates/article.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/templates/articles.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/article/urls.py",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/article/admin.py",
+		"/home/filipkonieczny/.cache/.fr-fr1Wxk/templates/base.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/templates/base.html",
+		"/home/filipkonieczny/.cache/.fr-wLHc4G/article/templates/articles.html",
+		"/home/filipkonieczny/.cache/.fr-bnKt9g/article/templates/articles.html",
+		"/home/filipkonieczny/.cache/.fr-eY8hC1/article/templates/article.html",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/__init__.py",
+		"/home/filipkonieczny/dev/django-tutorials/django_test/article/templates/article/hello.html",
+		"/home/filipkonieczny/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/filipkonieczny/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/filipkonieczny/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
 		"/home/filipkonieczny/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/filipkonieczny/.cache/.fr-d1fGId/article/views.py",
-		"/home/filipkonieczny/dev/django-tutorials/django_test/article/templates/article/article.html",
 		"/home/filipkonieczny/.cache/.fr-ToOnZT/article/templates/articles.html",
-		"/home/filipkonieczny/dev/django-tutorials/django_test/article/templates/article/articles.html",
-		"/home/filipkonieczny/dev/django-tutorials/django_test/article/urls.py",
 		"/home/filipkonieczny/.cache/.fr-LF1ave/article/templates/article.html",
-		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/urls.py",
 		"/home/filipkonieczny/.cache/.fr-mTeVcK/article/urls.py",
 		"/home/filipkonieczny/.cache/.fr-pxdZUC/django_test/urls.py",
 		"/home/filipkonieczny/dev/django-tutorials/django_test/article/models.py",
 		"/home/filipkonieczny/dev/django-tutorials/django_test/article/templates/article/hello_class.html",
-		"/home/filipkonieczny/dev/django-tutorials/django_test/article/templates/article/hello.html",
-		"/home/filipkonieczny/dev/django-tutorials/django_test/templates/articles.html",
-		"/home/filipkonieczny/dev/django-tutorials/django_test/templates/article.html",
 		"/home/filipkonieczny/dev/django-tutorials/basic_blog/basic_blog/urls.py",
-		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/views.py",
-		"/home/filipkonieczny/dev/django-tutorials/django_test/django_test/settings.py",
-		"/home/filipkonieczny/dev/django-tutorials/django_test/article/views.py",
 		"/home/filipkonieczny/dev/django-tutorials/django_test/templates/hello.html",
 		"/home/filipkonieczny/dev/django-tutorials/basic_blog/blog/templates/base.html",
 		"/home/filipkonieczny/dev/django-tutorials/basic_blog/blog/templates/view_post.html",
@@ -240,225 +214,6 @@
 	"groups":
 	[
 		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "django_test/settings.py",
-					"settings":
-					{
-						"buffer_size": 2012,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								760,
-								760
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 308.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "article/templates/article/articles.html",
-					"settings":
-					{
-						"buffer_size": 213,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								15,
-								15
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/filipkonieczny/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 13677,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6136,
-								6136
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2770.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/filipkonieczny/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 31027,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5467,
-								5467
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1538.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/filipkonieczny/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 240,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								237,
-								237
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/filipkonieczny/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 103,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								95,
-								95
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "article/templates/article/hello.html",
-					"settings":
-					{
-						"buffer_size": 131,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "article/views.py",
-					"settings":
-					{
-						"buffer_size": 1352,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								169,
-								169
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
 			"sheets":
 			[
 			]
@@ -470,7 +225,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -481,18 +236,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -520,6 +268,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"/home/filipkonieczny/dev/django-tutorials/django_test/django-test.sublime-project"
+			]
 		],
 		"width": 380.0
 	},
@@ -527,6 +279,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 144.0,
 	"status_bar_visible": true
 }
